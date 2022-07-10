@@ -6,3 +6,7 @@ Für das Projekt brauchte ich erstmal ein nutzbares API-Key von einem Wetterdien
 
 Am Schluss schrieb ich noch einen Ausgabesatz mit den gefragten Informationen, die lautet: 
 - In {city} beträgt die Temperatur {temp} Grad. Die Luftfeuchtigkeit beträgt {humidity} Prozent. Die Höchsttemperatur liegt bei {temp_max} Grad und die niedrigste Temperatur bei {temp_min} Grad.
+
+### Benutzung
+
+Für die Nutzung ruft man das Programm ab. Hier wird man begrüsst und aufgefordert eine Stadt einzugeben. Wenn man die Stadt eingibt, bekommt man in vollständigen Sätzen, die nötigen Informationen mitgeteilt.
