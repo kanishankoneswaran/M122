@@ -6,12 +6,12 @@ Meine Idee ist es ein Skript, mit dem man Wetterdaten auslesen kann, zu schreibe
 
 ### Muss Kriterien:
 
-•	Temperatur anzeigen
-•	Luftfeuchtigkeit anzeigen
-•	Begrüssung
+- Temperatur anzeigen
+- Luftfeuchtigkeit anzeigen
+- Begrüssung
 
 ### Kann Kriterien
 
-•	Temperatur in Grad
-•	Sonnenuntergang anzeigen
-•	Niedrigste und höchste Temperatur des Tages
+- Temperatur in Grad
+- Sonnenuntergang anzeigen
+- Niedrigste und höchste Temperatur des Tages
