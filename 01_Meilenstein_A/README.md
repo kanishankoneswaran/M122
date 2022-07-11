@@ -1,9 +1,9 @@
 # Meilenstein A
 
 
-## Idee
+## Beschreibung
 
-Meine Idee ist es ein Skript, mit dem man Wetterdaten auslesen kann, zu schreiben. Es verabeitet Daten eines Wetterdienstes. Das Skript soll Temperaturen und die Luftfeuchtigkeit von jeder Stadt ausgeben können.
+Die Idee ist es ein Skript, mit dem man Wetterdaten auslesen kann, zu schreiben. Es verabeitet Daten eines Wetterdienstes. Das Skript soll Temperaturen und die Luftfeuchtigkeit von jeder Stadt ausgeben können.
 
 ------------------------------
 
