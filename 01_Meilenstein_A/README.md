@@ -3,7 +3,7 @@
 
 ## Beschreibung
 
-Die Idee ist es ein Skript, mit dem man Wetterdaten auslesen kann, zu schreiben. Es verabeitet Daten eines Wetterdienstes. Das Skript soll Temperaturen und die Luftfeuchtigkeit von jeder Stadt ausgeben können.
+Die Idee ist es ein Skript, mit dem man Wetterdaten auslesen kann, zu schreiben. Es verabeitet Daten eines API-Wetterdienstes. Das Skript gibt Temperaturen und die Luftfeuchtigkeit von jeder Stadt aus.
 
 ------------------------------
 
