@@ -9,4 +9,4 @@ Am Schluss schrieb ich noch einen Ausgabesatz mit den gefragten Informationen, d
 
 ### Bedienung
 
-Für die Nutzung ruft man das Programm ab. Hier wird man begrüsst und aufgefordert eine Stadt einzugeben. Wenn man die Stadt eingibt, bekommt man in vollständigen Sätzen, die nötigen Informationen mitgeteilt.
+Für die Nutzung ruft man das Programm ab. Dafür muss man natürlich Python installiert haben. Hier wird man begrüsst und aufgefordert eine Stadt einzugeben. Wenn man die Stadt eingibt, bekommt man in vollständigen Sätzen, die nötigen Informationen mitgeteilt.
